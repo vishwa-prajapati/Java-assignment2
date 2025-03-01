@@ -1,0 +1,4 @@
+db\DBConnection.class
+dao\ProductDAO.class
+model\Product.class
+servlet\ProductServlet.class
